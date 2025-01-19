@@ -1,0 +1,17 @@
+[
+    {
+      "name": "User Name",
+      "email": "email1",
+      "ec2_user": "dev-user1"
+    },
+    {
+        "name": "User Name",
+        "email": "email2",
+        "ec2_user": "dev-user2"
+    },
+    {
+        "name": "User Name",
+        "email": "email3",
+        "ec2_user": "dev-user3"
+      }
+  ]
