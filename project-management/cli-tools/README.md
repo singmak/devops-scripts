@@ -10,11 +10,6 @@ The project is structured into different modules, each responsible for interacti
 
 - `bitbucket`: Contains scripts for interacting with Bitbucket.
 - `jira`: Contains scripts for interacting with Jira.
-- `argocd`: Contains scripts for interacting with ArgoCD.
-- `kibana`: Contains scripts for interacting with Kibana.
-- `postgresdb`: Contains scripts for interacting with PostgreSQL.
-- `bastion`: Contains scripts for interacting with Bastion instances.
-- `jenkins`: Contains scripts for interacting with Jenkins.
 - `sonarqube`: Contains scripts for interacting with SonarQube.
 
 ## Usage
